@@ -1,6 +1,9 @@
 {
   "name": "text-image-widget",
   "version": "1.0.0",
+  "scripts": {
+    "start": "vercel dev"
+  },
   "dependencies": {
     "canvas": "^2.8.0"
   }
