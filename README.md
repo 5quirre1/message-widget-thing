@@ -6,5 +6,5 @@
 
 ```https://code-widget.vercel.app/api/image.js?message=ggggggg```
 
-<img src="https://code-widget.vercel.app/api/image.js?message=ggggggg">
+<img src="https://code-widget.vercel.app/api/image.js?message=ggggggg" width="270" height="270">
 
