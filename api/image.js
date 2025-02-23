@@ -1,4 +1,6 @@
-const { createCanvas } = require('canvas');
+const { createCanvas, registerFont } = require('canvas');
+const path = require('path');
+registerFont(path.join(__dirname, 'fonts', 'ComicSansMS.ttf'), { family: 'Comic Sans MS' });
 
 module.exports = (req, res) => {
   const message = req.query.message || 'Hello, World!';
@@ -9,7 +11,7 @@ module.exports = (req, res) => {
   ctx.fillStyle = '#003366';
   ctx.fillRect(0, 0, 600, 600);
 
-  ctx.font = '30px Arial';
+  ctx.font = '30px "Comic Sans MS"';
   ctx.fillStyle = '#A9D6E5';
   ctx.textAlign = 'center';
   ctx.textBaseline = 'middle';
