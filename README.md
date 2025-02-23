@@ -1,6 +1,6 @@
 # uhhh PikiDiary Widget 
 
-**this sucks really bad but it took 2+ hours so enjoy!**
+**this sucks really bad but it took 3+ hours so enjoy!**
 
 ## Example
 
