@@ -1,4 +1,4 @@
-const { createCanvas } = require('@napi-rs/canvas');
+const { createCanvas } = require('canvas');
 
 module.exports = (req, res) => {
   const message = req.query.message || 'Hello, World!';
