@@ -1,10 +1,10 @@
-# uhhh PikiDiary Widget 
+# uhhh idfk :sob:
 
 **this sucks really bad but it took 3+ hours so enjoy!**
 
 ## Example
 
-```https://code-widget.vercel.app/api/image.js?message=ggggggg```
+```https://message-widget-thing.vercel.app/api/image.js?message=noma is not greg```
 
-<img src="https://code-widget.vercel.app/api/image.js?message=ggggggg" width="270" height="270">
+<img src="https://message-widget-thing.vercel.app/api/image.js?message=noma%20is%20not%20greg" width="270" height="270">
 
