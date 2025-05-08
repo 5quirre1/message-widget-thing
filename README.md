@@ -1,5 +1,9 @@
 # uhhh idfk :sob:
 
+> [!IMPORTANT]  
+> link is down and everything is archived so yea
+
+
 **this sucks really bad but it took 3+ hours so enjoy!**
 
 ## Example
